@@ -1,0 +1,201 @@
+,Patient ID,Patient Name,Age,Gender,No of visits,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11,Q12,Q13,Q14,Result
+0,-783915651,Estrella Higgs,12,Female,1,0,0,0,1,0,0,1,1,0,0,1,0,1,0,Screen Immediately
+1,-1837577191,Alessia Ingham,15,Female,1,1,0,0,0,1,1,0,1,0,1,0,1,0,1,Screen Immediately
+2,-1376347204,Barney Vincent,15,Male,2,1,0,1,0,1,1,0,0,1,0,1,1,1,1,Screen Immediately
+3,-654531204,Liam Antcliff,21,Male,3,0,0,0,0,0,1,0,1,1,0,1,1,1,1,Screen Immediately
+4,-1071581506,Michelle Kelly,13,Female,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No Risk
+5,-1125780070,Sonya Wren,15,Female,0,0,1,0,0,1,1,0,0,0,1,0,1,0,1,Screen after one Month
+6,-562450586,Beatrice Hall,20,Female,1,1,0,0,1,0,0,1,0,1,0,0,1,0,1,Screen Immediately
+7,-1809521262,Kurt Hunter,17,Male,1,0,1,0,1,1,0,0,0,1,1,1,1,1,1,Screen Immediately
+8,-1052423548,Julius Whinter,18,Male,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,Screen Immediately
+9,-845812817,Harry Yoman,23,Male,4,1,1,0,0,1,1,1,0,1,1,1,1,1,1,Screen Immediately
+10,-1624719384,Noah Lynch,15,Male,1,1,0,0,1,0,1,1,1,1,1,1,0,1,0,Screen Immediately
+11,-977597077,Michael Willson,15,Male,3,0,0,0,0,0,1,0,1,0,1,1,0,1,0,Screen Immediately
+12,-213870473,Winnie Appleton,16,Female,3,0,0,0,0,0,1,0,1,1,1,1,0,1,0,Screen Immediately
+13,-1073743014,Enoch Wilson,16,Male,3,0,1,1,0,1,0,0,0,0,1,0,0,0,0,Screen after one Month
+14,-438839427,Roger Ranks,12,Male,3,0,1,1,0,0,1,0,1,1,0,1,0,1,0,Screen Immediately
+15,-1412088092,Marvin Martin,16,Male,4,0,0,0,0,0,0,0,0,1,1,0,0,0,0,Screen Immediately
+16,-239237013,Penelope Cox,14,Female,4,1,0,1,1,1,1,0,1,0,0,0,0,0,0,Screen after one Month
+17,-1658225374,Felicity Potter,18,Female,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,Screen Immediately
+18,-1040517304,Macy Larkin,18,Female,1,0,0,1,0,1,0,1,1,0,0,1,0,1,0,Screen Immediately
+19,-276759674,Marilyn Shepherd,23,Female,1,0,1,0,0,1,0,1,1,1,0,0,1,0,1,Screen Immediately
+20,-1689941514,Erick Ingham,16,Male,1,1,1,0,0,0,0,0,1,0,1,1,0,1,0,Screen Immediately
+21,-285178028,Jenna Ventura,22,Female,1,0,0,0,1,1,1,1,0,0,0,0,1,0,1,Screen Immediately
+22,-495914767,Benjamin Hardwick,21,Male,4,1,0,0,0,1,0,1,1,1,0,0,0,0,0,Screen after one Month
+23,-1781897133,Tom Saunders,23,Male,4,1,0,0,0,1,1,1,1,0,0,0,1,0,1,Screen Immediately
+24,-2043939520,Owen Page ,23,Male,3,0,1,0,0,0,1,1,0,1,0,1,1,1,1,Screen Immediately
+25,-1135753421,Lauren Gates,19,Female,1,1,0,1,1,0,1,0,1,1,0,0,1,0,1,Screen Immediately
+26,-628000280,Henry Holmes,23,Male,3,1,1,1,0,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+27,-523892056,Anabelle Umney,20,Female,1,0,0,1,1,1,1,0,1,0,1,1,1,1,1,Screen Immediately
+28,-1920922031,Phillip Aldridge,15,Male,0,1,1,1,0,1,1,0,1,0,0,1,1,1,1,Screen Immediately
+29,-1298921513,Zoe Weasley,20,Female,2,1,1,1,0,1,1,0,0,1,1,1,1,1,1,Screen Immediately
+30,-279037162,Domenic Vaughan,21,Male,0,1,1,0,0,1,0,0,1,0,1,1,0,1,0,Screen Immediately
+31,-600168035,Dakota Dillon,18,Female,2,0,1,1,1,1,0,0,0,0,0,0,1,0,1,Screen after one Month
+32,-1152277228,Phillip Watt,13,Male,1,0,1,1,1,1,0,1,1,0,0,1,1,1,1,Screen Immediately
+33,-1386308140,Rose Farmer,19,Female,3,0,0,1,0,1,0,0,1,1,0,1,0,1,0,Screen Immediately
+34,-393324114,Leilani Sinclair,15,Female,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,No Risk
+35,-326616586,Maia Rainford,12,Female,2,0,1,0,1,1,1,1,1,1,0,1,0,1,0,Screen Immediately
+36,-798169875,Ronald Gosling,20,Male,4,0,1,0,0,0,0,1,1,0,1,0,0,0,0,Screen Immediately
+37,-778486563,Johnathan Wise,23,Male,2,0,1,0,0,1,1,0,1,0,0,0,0,0,0,Screen after one Month
+38,-1271083717,Rae Wild,16,Female,0,0,0,0,0,1,0,1,0,1,1,0,1,0,1,Screen Immediately
+39,-848378658,Nathan Snow,13,Male,2,1,1,0,0,0,0,1,0,1,1,1,1,1,1,Screen Immediately
+40,-1431665980,Emery Bryson,14,Female,0,0,0,0,0,0,1,1,1,0,0,1,0,1,0,Screen Immediately
+41,-1903152402,Chad Stewart,22,Male,4,1,0,0,0,0,1,0,1,0,1,1,0,1,0,Screen Immediately
+42,-33607557,Julius Richards,23,Male,0,0,1,1,1,1,1,0,1,0,0,1,0,1,0,Screen Immediately
+43,-850045528,Rick Rossi,21,Male,4,0,1,0,0,0,1,1,0,0,0,1,1,1,1,Screen Immediately
+44,-1366812816,Nate Howard,20,Male,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Screen after one Month
+45,-1697317993,Janelle Vass,22,Female,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,Screen after one Month
+46,-689967035,Lana Steer,23,Female,4,1,0,0,1,1,0,0,1,1,1,0,0,0,0,Screen Immediately
+47,-950439601,Manuel Carter,22,Male,4,0,1,1,1,0,1,0,1,1,1,0,1,0,1,Screen Immediately
+48,-1604285265,Hailey Hood,17,Female,2,1,0,1,0,1,1,0,1,0,0,0,1,0,1,Screen Immediately
+49,-1781199307,Livia Brown,21,Female,0,0,0,0,0,0,1,1,0,1,0,0,1,0,1,Screen Immediately
+50,-1178829383,Gwen Widdows,21,Female,0,1,1,1,0,0,1,1,1,0,1,0,0,0,0,Screen Immediately
+51,-884470904,Piper Hastings,18,Female,0,0,1,0,1,0,0,0,0,0,1,1,0,1,0,Screen after one Month
+52,-1606369066,Gabriel Yarwood,22,Male,3,1,1,0,1,0,1,1,1,0,0,0,0,0,0,Screen after one Month
+53,-769884844,Juliet Edwards,15,Female,3,1,1,1,0,0,1,0,0,1,1,1,1,1,1,Screen Immediately
+54,-1085337771,Mya Jefferson,18,Female,4,1,0,1,1,0,0,0,1,0,1,0,1,0,1,Screen Immediately
+55,-474192885,David King,23,Male,3,0,0,1,0,1,1,0,0,1,1,1,1,1,1,Screen Immediately
+56,-233948033,Hannah Bradley,21,Female,0,1,1,0,0,1,1,0,1,1,1,0,1,0,1,Screen Immediately
+57,-70404341,Belinda Todd,15,Female,4,1,0,1,0,1,0,1,0,1,1,1,0,1,0,Screen Immediately
+58,-361412914,Daniel Graham,14,Male,4,1,1,0,0,1,0,0,0,0,0,1,0,1,0,Screen after one Month
+59,-108641060,Madison James,15,Female,4,1,1,1,0,1,1,0,0,0,1,0,0,0,0,Screen after one Month
+60,-143050536,Michael Rose,13,Male,2,0,0,1,1,1,0,1,0,1,0,1,0,1,0,Screen Immediately
+61,-929152946,Mark Walker,21,Male,0,0,0,0,1,0,1,0,1,1,0,1,0,1,0,Screen Immediately
+62,-1231500836,Oliver Owen,20,Male,3,1,1,1,1,1,1,0,1,1,1,0,0,0,0,Screen Immediately
+63,-617547330,Drew Walton,23,Female,1,0,0,0,0,1,1,0,1,1,1,1,0,1,0,Screen Immediately
+64,-208043553,Mya Mccall,20,Female,1,0,1,1,0,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+65,-1531071066,Chuck Adams,14,Male,1,1,1,1,1,0,1,0,1,1,0,0,0,0,0,Screen after one Month
+66,-119371360,Domenic Ebden,22,Male,2,0,1,1,0,1,1,0,0,0,1,1,0,1,0,Screen after one Month
+67,-1683310763,Gina Morgan,12,Female,2,1,1,1,0,1,0,0,1,1,1,0,0,0,0,Screen Immediately
+68,-2041501775,Sloane Wigley,20,Female,0,0,0,0,1,1,1,1,1,0,0,1,0,1,0,Screen Immediately
+69,-1986956562,Teagan Denton,13,Female,2,0,1,0,1,0,0,0,0,0,0,0,1,0,1,Screen after one Month
+70,-907443067,Cedrick Robertson,19,Male,0,0,1,0,1,0,1,0,0,1,1,0,0,0,0,Screen Immediately
+71,-1632379057,Colleen Allcott,19,Female,2,0,1,0,0,1,1,1,1,1,0,0,1,0,1,Screen Immediately
+72,-1584233796,Alessia Garcia,12,Female,3,1,1,0,0,1,1,0,0,0,0,1,1,1,1,Screen after one Month
+73,-1001577455,Janelle Janes,16,Female,0,0,0,1,1,1,0,0,1,1,0,0,0,0,0,No Risk
+74,-1215272414,Stacy Cowan,20,Female,2,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Screen after one Month
+75,-1778111966,Ramon Eddison,15,Male,3,1,1,0,0,1,1,0,0,0,0,1,1,1,1,Screen after one Month
+76,-1908304288,Caitlyn Everett,15,Female,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,No Risk
+77,-1262885688,Natalie Fowler,17,Female,3,0,0,1,0,1,0,1,0,1,1,0,0,0,0,Screen Immediately
+78,-1750701003,Julian Willis,16,Male,1,0,0,1,1,1,0,1,1,0,1,1,0,1,0,Screen Immediately
+79,-976269780,Gloria Savage,21,Female,1,1,0,0,0,1,1,1,1,1,0,1,1,1,1,Screen Immediately
+80,-15397288,Liv Rowan,19,Female,3,0,1,0,0,0,0,0,1,1,1,0,1,0,1,Screen Immediately
+81,-1489634359,Jaylene Yates,16,Female,2,0,1,0,1,1,1,1,0,1,0,0,0,0,0,Screen after one Month
+82,-1943075250,Mandy Emerson,12,Female,3,0,0,0,1,1,0,1,0,1,1,1,0,1,0,Screen Immediately
+83,-1874409162,Benjamin Rose,20,Male,0,0,0,1,1,1,1,0,0,0,0,1,0,1,0,No Risk
+84,-1439520550,Lynn Robinson,22,Female,3,1,1,1,0,1,0,0,0,0,0,1,1,1,1,Screen after one Month
+85,-763034999,Gwenyth Vaughan,18,Female,0,1,1,1,0,1,0,0,0,1,0,1,0,1,0,Screen Immediately
+86,-1141111130,Melody Adams,23,Female,1,0,0,1,1,0,0,0,0,0,0,1,0,1,0,No Risk
+87,-1470491926,Adalind Mooney,13,Female,3,1,0,0,0,1,0,0,0,0,1,1,0,1,0,Screen after one Month
+88,-1993809985,Paige Brooks,12,Female,3,0,1,1,1,1,0,1,1,1,0,1,0,1,0,Screen Immediately
+89,-1991399283,Marie Whatson,18,Female,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,Screen Immediately
+90,-382529644,Sofie Corbett,22,Female,1,1,1,0,1,0,0,0,1,1,0,1,0,1,0,Screen Immediately
+91,-1860901217,Emery Flett,14,Female,2,1,1,0,1,1,1,1,0,1,1,0,1,0,1,Screen Immediately
+92,-2136146301,Robyn Stark,23,Female,2,1,0,0,1,0,0,1,1,0,1,0,1,0,1,Screen Immediately
+93,-182873208,Alex Dann,13,Female,2,1,0,1,0,0,0,1,0,0,0,1,0,1,0,Screen Immediately
+94,-887902590,Ally Bowen,15,Female,3,1,1,1,1,1,0,1,1,0,0,0,0,0,0,Screen after one Month
+95,-237680754,Alba Bingham,13,Female,4,1,1,0,1,0,1,1,0,0,0,1,1,1,1,Screen Immediately
+96,-855335043,Kurt Fields,20,Male,0,0,1,0,0,0,1,1,0,0,1,1,0,1,0,Screen Immediately
+97,-234881706,Molly Thorpe,14,Female,3,1,1,0,1,0,0,0,0,1,1,0,1,0,1,Screen Immediately
+98,-993537690,Johnny Wright,23,Male,2,0,0,1,1,1,0,0,0,1,0,0,0,0,0,No Risk
+99,-39326276,Sarah Varndell,23,Female,3,0,0,1,1,1,0,0,1,1,0,0,0,0,0,No Risk
+100,-1174308914,Gabriel Richards,21,Male,3,0,0,0,0,0,1,1,1,1,0,1,0,1,0,Screen Immediately
+101,-2057634218,Harvey Mcleod,12,Male,1,0,0,1,0,0,1,1,0,1,1,0,1,0,1,Screen Immediately
+102,-354439501,Caleb Stewart,12,Male,1,0,0,1,0,1,1,0,1,0,1,1,0,1,0,Screen Immediately
+103,-1599405695,Ron Herbert,12,Male,2,1,0,1,0,0,1,1,1,1,1,1,1,1,1,Screen Immediately
+104,-774540066,Tyler Booth,22,Male,1,1,1,0,0,1,0,0,0,0,1,1,0,1,0,Screen after one Month
+105,-138690819,Rocco Bloom,16,Male,3,0,1,0,1,0,0,1,0,1,1,1,0,1,0,Screen Immediately
+106,-1771039023,Eryn Harris,17,Female,2,1,0,0,1,1,0,0,0,1,1,0,1,0,1,Screen Immediately
+107,-906382103,Tony Fulton,23,Male,0,0,1,1,1,1,1,0,1,0,1,0,1,0,1,Screen Immediately
+108,-1604559652,Wade Harris,22,Male,0,1,1,1,1,0,0,1,1,1,1,0,1,0,1,Screen Immediately
+109,-1655513985,Russel Flynn,21,Male,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,Screen Immediately
+110,-354660966,Anne Corbett,20,Female,4,1,0,0,0,0,1,1,1,1,0,0,1,0,1,Screen Immediately
+111,-1113842515,Melinda Murray,21,Female,4,1,0,1,1,1,0,1,0,0,1,0,0,0,0,Screen Immediately
+112,-2056145722,Harvey Wills,12,Male,1,1,0,1,1,1,1,0,0,1,0,0,0,0,0,Screen after one Month
+113,-1466891484,Kurt Miller,23,Male,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,Screen after one Month
+114,-2051059006,Lucy Milner,14,Female,4,1,1,1,0,0,0,1,0,0,0,0,1,0,1,Screen Immediately
+115,-214254334,Katelyn Walker,20,Female,1,0,0,1,0,1,1,1,1,0,0,1,0,1,0,Screen Immediately
+116,-984142275,Rufus Wills,14,Male,2,1,0,1,0,0,1,0,1,1,0,1,1,1,1,Screen Immediately
+117,-837329030,Anthony Rivers,12,Male,0,0,1,0,0,1,0,1,0,1,1,1,0,1,0,Screen Immediately
+118,-1819539035,Sloane Richards,13,Female,3,1,0,0,1,0,0,0,1,1,0,0,1,0,1,Screen Immediately
+119,-1246340710,Daniel Allwood,16,Male,3,1,1,0,1,1,0,1,0,0,1,1,1,1,1,Screen Immediately
+120,-552505427,Tom Irwin,22,Male,0,1,1,0,0,0,0,0,1,1,1,1,0,1,0,Screen Immediately
+121,-1626830332,Colleen Camden,20,Female,2,0,1,0,0,1,1,0,1,0,1,0,0,0,0,Screen Immediately
+122,-2055640728,Eryn Shaw,23,Female,2,1,0,1,1,1,0,1,1,0,0,1,1,1,1,Screen Immediately
+123,-796737789,Vera Hill,13,Female,2,1,1,1,0,0,1,0,1,1,0,0,1,0,1,Screen Immediately
+124,-1193920313,Ellen Faulkner,21,Female,2,0,1,0,1,0,1,0,1,0,1,1,0,1,0,Screen Immediately
+125,-493023551,Ruby Nash,17,Female,1,0,1,1,0,0,1,0,1,0,1,0,1,0,1,Screen Immediately
+126,-17861743,Britney Knight,15,Female,0,0,0,1,1,1,1,1,1,0,0,0,0,0,0,No Risk
+127,-1562286636,Jayden Lynch,19,Male,2,0,0,0,1,0,1,0,0,1,0,1,1,1,1,Screen Immediately
+128,-1305143188,Bree Dempsey,16,Female,0,0,1,1,0,1,0,0,1,0,0,0,1,0,1,Screen Immediately
+129,-1647841397,Lauren Stevens,18,Female,1,0,0,1,1,0,0,1,1,1,1,0,0,0,0,Screen Immediately
+130,-718193773,Chad Roberts,15,Male,3,0,1,0,1,0,1,1,1,1,1,1,1,1,1,Screen Immediately
+131,-533560111,Freya Daniells,19,Female,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,No Risk
+132,-1100282901,Mark Noach,23,Male,2,1,0,1,1,0,1,1,0,1,0,1,1,1,1,Screen Immediately
+133,-209155976,Brad Spencer,15,Male,2,1,0,0,1,1,0,0,1,0,1,1,1,1,1,Screen Immediately
+134,-230050192,Benjamin Upton,12,Male,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,No Risk
+135,-950009451,Peyton Hunt,21,Female,2,1,1,0,1,1,1,1,0,1,1,1,0,1,0,Screen Immediately
+136,-233564221,Daron Tailor,23,Male,2,1,0,1,1,1,1,1,0,0,0,1,0,1,0,Screen Immediately
+137,-1400404629,Hayden Cooper,22,Female,3,1,1,1,0,1,1,1,1,0,1,1,0,1,0,Screen Immediately
+138,-943908094,Erick Ross,14,Male,1,0,0,1,0,0,0,1,1,1,0,1,0,1,0,Screen Immediately
+139,-581518313,Rosa Moss,23,Female,4,0,1,0,1,1,0,0,0,1,1,1,0,1,0,Screen Immediately
+140,-1365996364,Rae Price,21,Female,0,0,1,0,0,0,0,0,1,1,0,1,0,1,0,Screen Immediately
+141,-460633686,Adeline Holt,23,Female,0,1,0,0,1,0,1,1,0,1,0,0,0,0,0,Screen after one Month
+142,-850784297,Aileen Lindsay,18,Female,3,1,0,1,0,0,0,0,0,1,1,1,1,1,1,Screen Immediately
+143,-1959669562,Mara Chapman,17,Female,2,0,0,0,1,1,1,0,0,0,1,0,1,0,1,No Risk
+144,-885968850,Stacy Benson,12,Female,1,0,1,0,1,0,1,1,1,0,0,1,1,1,1,Screen Immediately
+145,-1714247003,Alan Matthews,23,Male,3,0,1,1,1,0,0,0,1,0,1,0,0,0,0,Screen Immediately
+146,-472039365,Hayden Thomas,14,Female,4,1,1,1,0,1,1,1,1,0,1,0,1,0,1,Screen Immediately
+147,-428211526,Nicholas Vallory,15,Male,1,0,0,0,1,0,1,1,0,0,1,1,1,1,1,Screen Immediately
+148,-568034849,Ramon Gates,20,Male,2,1,1,0,0,1,1,1,0,1,0,0,0,0,0,Screen after one Month
+149,-1283341631,Maribel Ring,22,Female,3,0,0,1,1,0,0,0,0,1,1,1,1,1,1,Screen Immediately
+150,-775463259,Naomi Yoman,17,Female,3,1,1,1,1,0,0,1,1,1,0,0,1,0,1,Screen Immediately
+151,-1826487584,Daniel Walton,12,Male,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,Screen Immediately
+152,-420085788,Aisha Johnson,13,Female,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,No Risk
+153,-621576975,Tyler Page ,13,Male,1,1,1,1,0,1,1,0,1,1,0,0,0,0,0,Screen after one Month
+154,-2060335972,Ronald Allwood,12,Male,0,0,1,1,0,1,0,0,1,0,0,0,1,0,1,Screen Immediately
+155,-891031132,George Mann,19,Male,4,1,0,0,0,0,1,0,1,0,0,1,0,1,0,Screen Immediately
+156,-106833656,Lexi Thompson,21,Female,4,1,1,1,1,1,0,0,1,1,0,0,0,0,0,Screen after one Month
+157,-946728159,Daron Hewitt,16,Male,4,0,0,0,0,0,1,0,0,1,0,1,1,1,1,Screen Immediately
+158,-1402611182,Rocco Brooks,23,Male,2,0,0,1,0,0,1,0,0,1,0,1,1,1,1,Screen Immediately
+159,-2060425123,Lucas Stewart,19,Male,4,0,0,1,1,1,0,0,1,0,1,1,0,1,0,Screen Immediately
+160,-1936406822,Owen Darcy,19,Male,2,0,0,0,1,0,1,1,1,0,0,1,1,1,1,Screen Immediately
+161,-778350952,Catherine Stevens,18,Female,3,0,1,0,1,0,1,1,0,0,1,1,1,1,1,Screen Immediately
+162,-249684543,Leroy Clarke,16,Male,2,0,1,1,1,0,0,1,1,0,1,1,1,1,1,Screen Immediately
+163,-1823821536,Ryan Dempsey,20,Male,0,0,0,0,0,1,1,1,0,1,1,1,1,1,1,Screen Immediately
+164,-1571414164,Logan Harris,12,Male,0,0,1,1,1,0,0,1,0,1,0,1,1,1,1,Screen Immediately
+165,-1380666450,Carmen Rigg,15,Female,3,0,0,0,0,0,1,1,0,1,0,1,0,1,0,Screen Immediately
+166,-1730949930,Gil Spencer,13,Male,4,0,1,0,0,0,1,1,1,0,0,0,1,0,1,Screen Immediately
+167,-1474263577,Monica Osmond,17,Female,4,0,1,1,1,1,1,1,1,0,1,0,1,0,1,Screen Immediately
+168,-1516030005,Shay Sinclair,17,Female,1,0,0,1,0,1,1,0,1,1,0,0,1,0,1,Screen Immediately
+169,-2045010913,Ethan Russel,16,Male,1,1,0,1,1,1,1,1,0,1,1,1,0,1,0,Screen Immediately
+170,-946013303,Chris Clarke,18,Male,0,1,0,1,0,1,0,1,1,0,1,0,0,0,0,Screen Immediately
+171,-1991369036,Ivette Yard,13,Female,3,0,0,1,1,0,1,1,1,0,0,0,0,0,0,No Risk
+172,-1430501087,Livia Brooks,18,Female,4,1,1,1,0,1,1,0,1,0,0,1,0,1,0,Screen Immediately
+173,-1520007374,Alba Fields,13,Female,0,1,0,1,0,1,1,0,0,0,1,0,0,0,0,Screen after one Month
+174,-947472428,Tom Mcnally,16,Male,2,1,0,0,1,1,1,1,1,0,0,0,0,0,0,Screen after one Month
+175,-105802913,Barry Vaughn,19,Male,1,0,1,0,1,0,0,0,1,0,0,0,1,0,1,Screen Immediately
+176,-263472283,Florence Casey,19,Female,2,1,0,0,0,0,1,0,1,1,0,0,1,0,1,Screen Immediately
+177,-232253236,Lexi Noon,21,Female,2,0,1,1,1,1,1,0,0,1,1,0,1,0,1,Screen Immediately
+178,-25079078,Sydney Nicholls,23,Female,4,1,0,0,1,1,1,0,1,0,1,0,1,0,1,Screen Immediately
+179,-2126829969,Tom Vollans,22,Male,2,1,0,0,1,1,1,1,1,0,1,1,0,1,0,Screen Immediately
+180,-888303364,Anabel Hunter,18,Female,4,1,1,1,1,1,1,1,1,0,0,0,0,0,0,Screen after one Month
+181,-1706147869,Paige Becker,19,Female,4,0,0,0,0,0,0,0,1,0,1,1,1,1,1,Screen Immediately
+182,-1299879078,Carl Jeffery,16,Male,2,1,1,1,1,1,0,0,1,1,1,1,0,1,0,Screen Immediately
+183,-1407134392,Liam Vangness,13,Male,4,1,0,1,0,1,0,1,0,1,0,0,1,0,1,Screen Immediately
+184,-851777177,Brad Brooks,13,Male,4,0,0,0,0,0,0,0,1,1,0,1,0,1,0,Screen Immediately
+185,-1267909136,Boris Sylvester,12,Male,3,0,0,0,0,0,0,1,0,0,1,0,1,0,1,Screen Immediately
+186,-2070709829,Ronald Keys,13,Male,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,No Risk
+187,-2048015099,Johnny Patel,23,Male,4,1,1,1,1,0,0,1,0,0,0,0,0,0,0,Screen after one Month
+188,-1407123617,Michael Daniells,14,Male,1,1,0,0,0,0,0,1,0,0,1,0,1,0,1,Screen Immediately
+189,-878302450,Gil Marshall,16,Male,2,1,1,1,0,0,0,1,0,0,1,0,1,0,1,Screen Immediately
+190,-1291040156,Barry Hobson,18,Male,2,1,0,1,1,0,0,1,0,0,1,0,1,0,1,Screen Immediately
+191,-1745182590,Russel Preston,14,Male,2,1,0,1,0,0,0,1,0,0,1,1,1,1,1,Screen Immediately
+192,-2033370481,Tyson Andrews,23,Male,2,1,0,1,1,0,0,1,0,1,1,1,1,1,1,Screen Immediately
+193,-1617764558,Benjamin Tanner,23,Male,3,1,1,1,1,0,0,1,0,1,0,1,1,1,1,Screen Immediately
+194,-404013227,Martin Cowan,17,Male,2,1,1,1,1,0,0,1,0,0,1,1,1,1,1,Screen Immediately
+195,-2112413895,Clint Weston,12,Male,2,1,1,1,1,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+196,-1128510356,Ethan Martin,12,Male,2,1,0,1,1,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+197,-1227151640,Matthew Aldridge,22,Male,3,1,1,1,1,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+198,-941279096,Rick Edley,17,Male,3,1,1,1,1,0,0,1,0,1,1,0,1,0,1,Screen Immediately
+199,-9998207,Rufus Evans,16,Male,0,1,1,1,1,0,0,1,0,1,1,0,1,0,1,Screen Immediately
